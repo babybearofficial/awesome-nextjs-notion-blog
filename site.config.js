@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'AdaptorLife',
-  domain: 'szufrank.top',
+  domain: '',
   author: 'LifeAdaptor',
 
   // open graph metadata (optional)
@@ -21,7 +21,7 @@ module.exports = {
   github: null,
   wechatPublicName: 'AdaptorLife',
   wechatPublicURL: null,
-  notionPublic: 'https://frankcbliu.notion.site/d75ddca35fc6449ba7b8dc041f106f61',
+  notionPublic: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
